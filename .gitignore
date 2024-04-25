@@ -1,3 +1,7 @@
 .env
 /venv
 /static
+
+/frontend/node_modules
+/frontend/build
+/frontend/.env

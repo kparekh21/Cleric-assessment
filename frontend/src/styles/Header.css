@@ -1,0 +1,19 @@
+/* src/styles/Header.css */
+.navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* subtle separator if needed */
+}
+
+.navbar-brand {
+  color: #fff !important; 
+}
+
+.button {
+  margin-left: auto;
+  background-color: #6c757d; 
+  border-color: #6c757d;
+}
+
+.button:hover {
+  background-color: #5a6268; 
+  border-color: #545b62;
+}
