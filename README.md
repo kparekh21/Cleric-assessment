@@ -1,6 +1,7 @@
 This Python Flask and React application is designed to process and summarize documents in relation to a specific question. It integrates with the OpenAI API to utilize its advanced natural language processing capabilities, specifically leveraging the GPT-4 model. The application serves two main endpoints to interact with the frontend or other services: one for submitting questions and documents, and another for retrieving the processed facts.
 
 -**React Frontend link**: http://ec2-3-17-223-124.us-east-2.compute.amazonaws.com:3000
+
 -**Flask backend link**: http://ec2-3-17-223-124.us-east-2.compute.amazonaws.com:8080
 
 ## Approaches
